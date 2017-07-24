@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "313136181644",
+    "firebase_url": "https://hangul-b415f.firebaseio.com",
+    "project_id": "hangul-b415f",
+    "storage_bucket": "hangul-b415f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313136181644:android:c9fcb4a3d4eb50c7",
+        "android_client_info": {
+          "package_name": "com.esp.hangul"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313136181644-ml30ln8jbnfk0u9u2l07cl1bp5t83ujs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPUaTv7l6rqozHPH_2UESVpdFGfyZw1bQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
