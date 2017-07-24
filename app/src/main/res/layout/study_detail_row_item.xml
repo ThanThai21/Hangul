@@ -14,21 +14,21 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="안녕하세요"
-            android:textSize="24sp"
+            android:textSize="18sp"
             android:textStyle="bold"
             android:textColor="@android:color/holo_blue_light"/>
-        <TextView
+        <com.esp.hangul.CustomView.CustomTextView
             android:id="@+id/pronuncation"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="[annyeonghaseyo]"
-            android:textSize="16sp"/>
-        <TextView
+            android:textSize="14sp"/>
+        <com.esp.hangul.CustomView.CustomTextView
             android:id="@+id/vietnamese"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Xin chào"
-            android:textSize="18sp"/>
+            android:textSize="16sp"/>
     </LinearLayout>
 
 
